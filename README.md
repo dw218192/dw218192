@@ -8,8 +8,7 @@ My passions include:
 5. Driving⚙️
 
 I'm open to work opportunities in Game Development and Software Engineering!
-Check out my LinkedIn page for my personal info & Resume.
-https://www.linkedin.com/in/tongwei-dai-583350177/
+Check out my [LinkedIn page](https://www.linkedin.com/in/tongwei-dai-583350177/) for my personal info & Resume.
 
 ## You might want to try some of my released games!
 
