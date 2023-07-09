@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+I'm a graduate student of Computer Graphics at the University of Pennsylvania.
+My passions include:
+1. Game Development
+2. Computer Graphics
+3. System Programming
+4. Boxing🥊
+5. Driving⚙️
+
+I'm open to work opportunities in Game Development and Software Engineering!
+Check out my LinkedIn page for my personal info & Resume.
+https://www.linkedin.com/in/tongwei-dai-583350177/
+
+## You might want to try some of my released games!
+
+*Santa Rush*
+
+Play Online: https://dw218192.itch.io/santarush
+
+*NoEscape*
+
+Play Online: https://dw218192.github.io/PuzzleGameBuild/
 
 <!--
 **dw218192/dw218192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
