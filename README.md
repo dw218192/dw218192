@@ -11,14 +11,7 @@ I'm open to work opportunities in Game Development and Software Engineering!
 Check out my [LinkedIn page](https://www.linkedin.com/in/tongwei-dai-583350177/) for my personal info & Resume.
 
 ## You might want to try some of my released games!
-
-*Santa Rush*
-
-Play Online: https://dw218192.itch.io/santarush
-
-*NoEscape*
-
-Play Online: https://dw218192.github.io/PuzzleGameBuild/
+[My itch.io Page](https://dw218192.itch.io/)
 
 <!--
 **dw218192/dw218192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
