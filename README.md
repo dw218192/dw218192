@@ -1,14 +1,6 @@
 ## Hi there 👋
-I'm a graduate student of Computer Graphics at the University of Pennsylvania.
-My passions include:
-1. Game Development
-2. Computer Graphics
-3. System Programming
-4. Boxing🥊
-5. Driving⚙️
-
-I'm open to work opportunities in Game Development and Software Engineering!
-Check out my [LinkedIn page](https://www.linkedin.com/in/tongwei-dai-583350177/) for my personal info & Resume.
+I'm a system software engineer at Nvidia.
+I'm open to new opportunities in Game Development/ Graphics & Simulation Programming! Feel free to reach me on [Linkedin](https://www.linkedin.com/in/tongwei-dai-583350177/) or through email [tongweid@gmail.com](mailto:tongweid@gmail.com)
 
 ## Some Links
 - [My Portfolio](https://dw218192.github.io/portfolio/)
